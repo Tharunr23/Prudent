@@ -1,0 +1,25 @@
+.navbar-dark {
+    background-color: #512DA8;
+    color: white;
+}
+
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    
+}
+
+.header1{
+    background-color: #9575cd;
+    color: white;
+    margin-top: 0px auto;
+    padding: 50px 0px 50px 0px;
+}
