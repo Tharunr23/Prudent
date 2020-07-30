@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import Header from './Header';
 import Footer from './Footer';
+import Upload from './UploadComponent';
 
 class Main extends Component
 {

@@ -34,7 +34,7 @@ class Header extends Component
                         <Collapse isOpen={this.state.isNavOpen} navbar>
                             <Nav navbar className="ml-auto">
                                 <NavItem>
-                                    <NavLink className="nav-link" to="/upload"><i className="fa fa-info fa-lg" > Upload File</i></NavLink>
+                                    <NavLink className="nav-link" to="/upload"><i className="fa fa-list fa-lg" > Upload File</i></NavLink>
                                 </NavItem>
                             </Nav>
                         </Collapse>

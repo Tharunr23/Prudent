@@ -23,8 +23,8 @@ function Footer(props)
                             Porur, Chennai - 116.<br />
                             <i className="fa fa-phone fa-lg"></i>: +852 1234 5678<br />
                              <i className="fa fa-fax fa-lg"></i>: +852 8765 4321<br />
-                             <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:confusion@food.net">
-                            confusion@food.net</a>
+                             <i className="fa fa-envelope fa-lg"></i>: <a href="mailto">
+                            </a>
                         </address>
                     </div>
                     <div className="col-sm-4 col-auto  align-self-center">
@@ -40,7 +40,7 @@ function Footer(props)
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-auto">
-                        <p>&#169; Copyrights 2020 Trendzon IT</p>
+                        <p>&#169; Copyrights 2020 PRUDENT AI</p>
                     </div>
                 </div>
             </div>
